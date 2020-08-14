@@ -1,0 +1,57 @@
+#wpadminbar  {
+  z-index: 9999999999;
+}
+
+.page-numbers {
+ display: inline-block;
+    padding: 5px;
+    width: 30px;
+    height: 30px;
+    border: 1px solid #d1e4f0;
+    margin-right: 7px;
+    margin-left: 7px;
+    border-radius: 4px;
+    font-size: 14px;
+    font-family: GothamRounded-Light;
+    color: #000;
+}
+	
+
+.page-numbers.current,
+a.page-numbers:hover {
+	background:  #337ab7 ;
+	text-decoration: none !important;
+	color: #fff !important;
+
+}    
+
+.btn-custompri {
+    border-radius: 40px!important;
+    padding: 10px!important;
+    font-size: 19px!important;
+    padding-left: 80px!important;
+    padding-right: 80px!important;
+    background: #fff !important;
+    color: #0077b5 !important;
+    border: 2px solid #0077b5 !important;
+}
+
+.blog-box-content {
+    padding: 15px 20px !important;
+    background: #fff;
+}
+li#text-3.widget.widget_text{
+    list-style:none !important;
+}
+
+
+/*FAQ STYLE*/
+.gothamroundedlight {
+    font-family: GothamRounded-Light !important;
+}
+
+.width200max {
+   
+    display: block !important;
+}
+

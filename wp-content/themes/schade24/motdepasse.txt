@@ -1,0 +1,144 @@
+mot de passe : jA#EWS^VN@231QqfYdZ0gA0P
+
+Hareth_Snoussi
+/////////////////////////////////////////////////
+SC24
+Username: KrdwkAMTK0
+Password: LB*CA&70&/(~
+/////////////////////////////////////////////////
+
+username: ifpm-chlef2
+password: IORIWA1CBoXW#YOrKKztrBbY
+
+cpanel : hareth
+password : KZF5%&{fPw;H
+//////////////////////////////////////////////
+
+7MhxIf9b46
+///////////////////////////////
+
+Teacher
+*TMZ9YBZT^AQ&^V@bSH3^t5E
+
+
+Nom d'utilisateur     : ifpmchl1
+Mot de passe          : 87[EW9Lh*ji6tO
+https://buddypress.org/support/topic/how-to-display-a-custom-field/
+https://wordpress.org/plugins/bp-xprofile-custom-field-types/
+https://wordpress.org/plugins/codepress-admin-columns/
+https://buddydev.com/snippets/614-614/
+///////////////////////////////
+35663462
+Banshee@@2018
+shutdown -s -f -t 4500
+NEW : 35665135
+
+page-settings <?php bp_course_name(); ?>
+Option name
+
+#page-settings
+#postcustom
+
+
+ya turu tibal
+moger85707@provamail.com
+<div class="form-group col-md-6">
+<span class="placeholder-hack">Media type</span>[select* type id:type class:form-control class:p-25 "Digital" "TV" "Press" "Radio" "Viewing" "PR" "Event" "Sport" ]
+
+
+   </div>
+
+
+<div class="form-group col-md-6 ">
+
+     <select class="form-control p-26 p-height26"">
+    <option value="" disabled selected>Media type</option>
+    <option value="ydasdas">ydasdas</option>
+    <option value="dasda">dasda</option>
+    <option value="ydagfdsdas">ydagfdsdas</option>
+    <option value="ewefsdf">ewefsdf</option>
+</select>
+
+   </div>
+
+
+  <!--<br>
+<p class="adresse">14, Rue Slimane Amirat, Alger, Algérie</p>
+<p class="email">info@medialgeria.com</p>
+<p class="phone">+213 21 60 13 48</p>
+
+
+<ul class="block-social text-center">
+    <h5>We are social</h5><br>
+    <li class="social"><a href="#"><i id="social-fb" class="fa fa-facebook fa-3x social"></i></a></li>
+    <li class="social"><a href="#"><i id="social-tw" class="fa fa-twitter fa-3x social"></i></a></li>
+    <li class="social"><a href="#"><i id="social-gp" class="fa fa-linkedin fa-3x social"></i></a></li>
+    <li class="social"><a href="#"><i id="social-em" class="fa fa-instagram  fa-3x social"></i></a></li>
+</ul>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<svg class="bkg-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 713.31">
+                <defs>
+                    <linearGradient id="grad1" x1="0%" y1="0%" x2="50%" y2="0%" gradientTransform="rotate(270)">
+                    <stop offset="0%" style="stop-color: #23b9b7;stop-opacity:1"></stop>
+                    <stop offset="100%" style="stop-color:#32cac8;stop-opacity:1"></stop>
+                    </linearGradient>
+                </defs>
+                <title>
+                    Asset 1
+                </title>
+                <g id="Layer_1" data-name="Layer 1"></g></svg>
+
+
+///////////////////////////////////////////////////
+<svg class="bkg-svg" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 713.31">
+                <defs>
+                    <linearGradient id="grad1" x1="0%" y1="0%" x2="50%" y2="0%" gradientTransform="rotate(270)">
+                    <stop offset="0%" style="stop-color: #23b9b7;stop-opacity:1"></stop>
+                    <stop offset="100%" style="stop-color:#32cac8;stop-opacity:1"></stop>
+                    </linearGradient>
+                </defs>
+                <title>
+                    Asset 1
+                </title>
+                <g id="Layer_1" data-name="Layer 1">
+                    <style>.opacity { opacity: 1; }</style>
+                    <g id="Layer_1-1" data-name="Layer 1" class="opacity">
+                        <path fill="url(#grad1)" stroke="transparent" d="M839.74,712.81C659.8,712.81,19.51,561.12.5,556.61V.5h1199l0,448.6c-2.21,3.28-46.13,68-111,131.84-38.91,38.29-77.63,68.8-115.1,90.68C926.54,699,881.59,712.81,839.74,712.81Z"></path>
+                    </g>
+                </g>
+            </svg>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	        document.getElementById('Layer_2').innerHTML = ' <style>.opacity { opacity: 1; }</style><g id="Layer_1-2" data-name="Layer 1" class="opacity"><path fill="url(#grad3)" stroke="transparent" d="M839.74,712.81C659.8,712.81,19.51,561.12.5,556.61V.5h1199l0,448.6c-2.21,3.28-46.13,68-111,131.84-38.91,38.29-77.63,68.8-115.1,90.68C926.54,699,881.59,712.81,839.74,712.81Z"></path></g>
+        
+';

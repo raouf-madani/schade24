@@ -1,0 +1,27 @@
+
+.dasboardblock  { background:#fff; border-radius:4px; padding:50px; text-align:center; margin-bottom:15px; min-height:200px; border:1px solid transparent}
+.dasboardblock:hover { border:1px solid #1779b4  }
+.sep0px { height:0px; clear:both}
+.sep5px { height:5px; clear:both}
+.sep10px { height:10px; clear:both}
+.sep15px { height:15px; clear:both}
+.sep20px { height:20px; clear:both}
+.sep25px { height:25px; clear:both}
+.img-responsive { display:inline-block !important; }
+.box .box-header { padding-left:15px; padding-right:15px; }
+.skin-blue .logo { background:#FFF !important }
+.dashboardblock { background:#fff; border:1px solid #d5e4ed; box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1); display:inline-block; width:100%; padding:40px 25px; color:#677483; font-size:15px; }
+.dashboardblock strong { color:#2076b1;  }
+.rightborderdark { padding-top:30px; padding-bottom:30px; border-right:1px solid #74808d; font-weight:bold; color:#2076b1 }
+.leftrightborderlight { border-right:1px solid #e8eaeb; border-left:1px solid #e8eaeb; }
+.paymentdata { padding-top:15px; padding-bottom:15px; }
+.descripblock { background:#e8eaeb; padding:20px; }
+
+.descripblock h3 { color:#677483;  margin-top:0px; }
+.box {  display: inline-block;
+    padding-bottom: 10px;}
+.logout-button .glyphicon {
+	margin: 0 !important;
+	text-align: center;
+	width: 100%;
+}

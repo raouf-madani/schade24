@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'GothamRounded-Bold';
+    src: url('../fonts/GothamRounded-Bold/GothamRounded-Bold.eot');
+    src: url('../fonts/GothamRounded-Bold/GothamRounded-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GothamRounded-Bold/GothamRounded-Bold.woff') format('woff'),
+        url('../fonts/GothamRounded-Bold/GothamRounded-Bold.ttf') format('truetype'),
+        url('../fonts/GothamRounded-Bold/GothamRounded-Bold.svg#GothamRounded-Bold') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GothamRounded-Light';
+    src: url('../fonts/GothamRounded-Light/GothamRounded-Light.eot');
+    src: url('../fonts/GothamRounded-Light/GothamRounded-Light.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/GothamRounded-Light/GothamRounded-Light.woff') format('woff'),
+        url('../fonts/GothamRounded-Light/GothamRounded-Light.ttf') format('truetype'),
+        url('../fonts/GothamRounded-Light/GothamRounded-Light.svg#GothamRounded-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+.site-heading h3{
+    font-size : 40px;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.border {
+    background: #d1360e;
+    height: 2px;
+    width: 165px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+}
+/* Blog-CSS */
+.blog-box {
+    padding: 0 0px;
+    transition: .5s;
+    
+    margin-bottom: 30px;
+	line-height:20px;
+	font-family:'GothamRounded-Light';
+	font-size:15px;
+	color:#333c4e;
+	    min-height: 393px;
+}
+.blog-box-content h4{
+    padding: 0 15px;
+}
+.blog-box-content h4 a {
+    font-family: 'GothamRounded-Medium';
+    font-size: 16px;
+    color: #0091ed;
+    text-align: left;
+}
+.blog-box-content h4:hover {
+    color:#1779b4;
+     text-decoration:none;
+ 
+}
+
+.blog-box-content {
+padding: 0 0px 0px;
+}
+
+.blog-box-text h4 a {
+    color: #333;
+}
+.blogcontent { 	font-family:'GothamRounded-Light'; font-size:16px; }
+.blogcontent h2 { font-family:'GothamRounded-Bold'; font-size:24px; /*text-align:left !important;*/ color:#1779b4 }
+.authordetails { font-family:'GothamRounded-Light'; font-size:14px; border:1px solid #F4F4F4; padding: 15px 0; }
+.authordetails h4 { font-family:'GothamRounded-Bold'; font-size:15px; color:#CCC ; margin-top: 0; }
+.authordetails h5 { font-family:'GothamRounded-Bold'; font-size:14px; margin-bottom:5px; }
+.font16px { font-size:16px !important;  }

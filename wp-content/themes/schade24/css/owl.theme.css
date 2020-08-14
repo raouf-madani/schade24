@@ -1,0 +1,84 @@
+/*
+* 	Owl Carousel Owl Demo Theme 
+*	v1.3.3
+*/
+
+.owl-theme .owl-controls{
+	margin-top: 10px;
+	text-align: center;
+}
+
+/* Styling Next and Prev buttons */
+/*.owl-buttons { display:none; }*/
+.owl-theme .owl-controls .owl-buttons div{
+	/*color: #FFF;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	margin: 5px;
+	padding: 3px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+	background: #869791;
+	filter: Alpha(Opacity=50);
+	opacity: 0.5;*/
+}
+/* Clickable class fix problem with hover on touch devices */
+/* Use it for non-touch hover action */
+.owl-theme .owl-controls.clickable .owl-buttons div:hover{
+	/*filter: Alpha(Opacity=100);*//*IE7 fix*/
+	/*opacity: 1;
+	text-decoration: none;*/
+}
+.owl-prev { position:absolute; left:22px; top:32%; background-image:url(../images/left-arrow.jpg); width:22px; height:43px; }
+.owl-next { position:absolute; right:-10px; top:32%; background-image:url(../images/right-arrow.jpg); width:22px; height:43px; }
+/* Styling Pagination*/
+
+.owl-theme .owl-controls .owl-page{
+	display: inline-block;
+	zoom: 1;
+	*display: inline;/*IE7 life-saver */
+}
+.owl-theme .owl-controls .owl-page span{
+	display: block;
+	width: 8px;
+	height: 8px;
+	margin: 5px 7px;
+	filter: Alpha(Opacity=50);/*IE7 fix*/
+	opacity: 0.5;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background: #194b73;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span{
+	filter: Alpha(Opacity=100);/*IE7 fix*/
+	opacity: 1;
+}
+
+/* If PaginationNumbers is true */
+
+.owl-theme .owl-controls .owl-page span.owl-numbers{
+	height: auto;
+	width: auto;
+	color: #FFF;
+	padding: 2px 10px;
+	font-size: 12px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
+
+/* preloading images */
+.owl-item.loading{
+	min-height: 150px;
+	background: url(AjaxLoader.gif) no-repeat center center
+}
+.brandlogolist2 .owl-prev { position:absolute; left:5px; top:32%; background-image:url(../images/left-arrow.jpg); width:22px; height:43px;  }
+.brandlogolist2 .owl-next { position:absolute; right:0px; top:32%; background-image:url(../images/right-arrow.jpg); width:22px; height:43px; }
+.brandbanner .owl-prev { position:absolute; left:-15%; top:47%; background-image:url(../images/brand-left.png); width:28px; height:28px; z-index:2  }
+.brandbanner .owl-next { position:absolute; left:-10%; top:47%; background-image:url(../images/brand-right.png); width:28px; height:28px; z-index:2 }
